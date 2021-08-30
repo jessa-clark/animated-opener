@@ -45,7 +45,7 @@ body {
 #text{
   position: relative;
   left: -100%;
-  animation: anim3 2s forwards 3s;
+  animation: anim3 2s forwards 2s;
 }
 @keyframes anim3 {
   from {
@@ -62,7 +62,7 @@ body {
   width: 100%;
   position: absolute;
   top: -100%;
-  animation: anim4 2s forwards 2.5s;
+  animation: anim4 2s forwards 2s;
 }
 #logo {
   float: left;
